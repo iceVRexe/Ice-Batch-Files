@@ -1,0 +1,1 @@
+if Buddy.BAT doesn't Create files on your desktop try Buddy FIXED.BAT!
